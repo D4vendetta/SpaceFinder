@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "finale",
+    "slug": "finale",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "finale"
+}
