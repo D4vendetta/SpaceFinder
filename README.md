@@ -34,7 +34,7 @@
 
 ## 🗂️ Database <br>
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/2ee2c816-04e9-4786-a364-317079ca8df0" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/3c0c37ba-83a3-4aa6-a01d-16b60cfdc859" width = "800" />
 </div>
 
 ## 📜 Tech Stack
