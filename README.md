@@ -23,16 +23,19 @@
 - 건물별 강의실 시간표 조회 : 각 건물에 위치한 강의실별 일주일치 수업 시간표를 도표를 통해 시각적으로 조회할 수 있는 기능
 <br>
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/d75de325-b82d-4455-a9e4-283a0caf53c9" width = "700" />
-  <img src = "https://github.com/user-attachments/assets/ff39b287-10f7-4e47-9c48-0521e61b2421" width = "700" />
-  <img src = "https://github.com/user-attachments/assets/d9af61d4-7596-4079-8719-1d1fb8fc5c1d" width = "700" />
-  <img src = "https://github.com/user-attachments/assets/202f3136-b929-4dff-93cd-980f78cc4859" width = "700" />
-  <img src = "https://github.com/user-attachments/assets/657730ea-210b-467f-beff-04fda4b9fa5e" width = "700" />
-  <img src = "https://github.com/user-attachments/assets/2216eb60-eb09-481f-9f80-7b0f3bf33fde" width = "700" />
-  <img src = "https://github.com/user-attachments/assets/b70c25aa-ad00-4837-8118-32b4798e3fcc" width = "700" />
+  <img src = "https://github.com/user-attachments/assets/d75de325-b82d-4455-a9e4-283a0caf53c9" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/ff39b287-10f7-4e47-9c48-0521e61b2421" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/d9af61d4-7596-4079-8719-1d1fb8fc5c1d" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/202f3136-b929-4dff-93cd-980f78cc4859" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/657730ea-210b-467f-beff-04fda4b9fa5e" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/2216eb60-eb09-481f-9f80-7b0f3bf33fde" width = "800" />
+  <img src = "https://github.com/user-attachments/assets/b70c25aa-ad00-4837-8118-32b4798e3fcc" width = "800" />
 </div>
 
 ## 🗂️ Database <br>
+<div align="center">
+  <img src = "https://github.com/user-attachments/assets/2ee2c816-04e9-4786-a364-317079ca8df0" width = "800" />
+</div>
 
 ## 📜 Tech Stack
 - Data-Parsing : Python
